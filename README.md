@@ -4,11 +4,10 @@
   ## About Me 👩‍💼
   
 - 👀 I am Swastik, working as an Software engineer at Ksolves.
-<!-- - 💻 I’m a full stack MERN developer and a content writer on Twitter  -->
 - 🎓 I graduated in 2021 from MCU, Bhopal (BCA) with a CGPA of 8.41 I’m currently pursuing my Masters (MCA) from BIST bhopal
-<!-- - 📫 I’m a full-stack Python developer and a content creator on Instagram. -->
 - 🌱 I’m currently learning Python Full Stack.
-- 💞️ Interests: Listening songs, creating content 
+- 💻 I’m a content creator on instagram (Tech.till.date) 
+- 💞️ Interests: Listening songs, graphic designing 
 
 ## Tech Stack 
 <!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
